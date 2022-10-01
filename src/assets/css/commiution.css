@@ -1,0 +1,16 @@
+.zhongJian .filmItemD {
+  display: flex;
+  align-items: center;
+}
+.zhongJian .filmItemD .ItemD_img {
+  width: 150px;
+  margin: 15px;
+}
+.zhongJian .filmDatel {
+  padding: 15px;
+  position: fixed;
+  right: 20px;
+  top: 100px;
+  background: #e0ffdd;
+  width: 300px;
+}

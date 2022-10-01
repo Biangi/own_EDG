@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.maizuoUl {
+  width: 100%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  line-height: 40px;
+  background: white;
+}
+li {
+  flex: 1;
+  text-align: center;
+  border-radius: 5px;
+  /* border: 1px solid rgb(235, 152, 93); */
+}
+.active {
+  background: #ff7f4c;
+  color: white;
+}
+.list_top {
+  position: fixed;
+  top: 0;
+  padding: 15px;
+  width: 90%;
+  background: white;
+  border-bottom: 1px solid #e3e3e3;
+}
+.list_top .title {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.list_top .title .title_text {
+  font-size: 20px;
+}
+.list_top .filter_list {
+  display: flex;
+  justify-content: space-around;
+}
+.inp_serach {
+  width: 90%;
+  padding: 20px;
+  display: none;
+  position: fixed;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid #e9e9e9;
+}
+.inp_serach .inp {
+  width: 88%;
+  height: 30px;
+  font-size: 20px;
+  margin-right: 5px;
+}
+.list_content {
+  height: 600px;
+  margin: 100px 0 100px 0;
+  overflow: hidden;
+}
+.list_content .cinemaList_Li {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.list_content .cinemaList_Li .cinemaList_info {
+  text-align: left;
+}
+.list_content .cinemaList_Li .cinemaList_info .listName {
+  font-size: 18px;
+  font-weight: 500;
+}
+.list_content .cinemaList_Li .cinemaList_info .listAddress {
+  width: 260px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #a0a0a0;
+}
+.list_content .cinemaList_Li .cinemaList_price {
+  text-align: right;
+}
+.list_content .cinemaList_Li .cinemaList_price .list_lowPrice {
+  color: #ff7f4c;
+}
+.list_content .cinemaList_Li .cinemaList_price .list_distance {
+  color: #a0a0a0;
+}
+.maiZuoNavBarD {
+  background: #fff0d8;
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}

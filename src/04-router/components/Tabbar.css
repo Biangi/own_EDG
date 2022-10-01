@@ -1,0 +1,27 @@
+.tabbarD {
+  width: 96%;
+  position: fixed;
+  bottom: 0;
+}
+.tabbarD_ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  background: white;
+}
+.tabbarD_ul .tabbarD_li {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  text-align: center;
+  border: 1px solid #c5c5c5;
+  line-height: 30px;
+}
+.tabbarD_ul a {
+  text-decoration: none;
+}
+.active {
+  background: red;
+}

@@ -1,0 +1,521 @@
+{
+    "films": [
+        {
+            "filmId": 6049,
+            "name": "世间有她",
+            "poster": "https://pic.maizuo.com/usr/movie/ddd98af15ecd1336e87c054d366f9761.jpg",
+            "actors": [
+                {
+                    "name": "张艾嘉",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/64f36ae58bc3be8a62f027593548626f.jpg"
+                },
+                {
+                    "name": "李少红",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/352766acf69f3abd678bbf4b14598c55.jpg"
+                },
+                {
+                    "name": "陈冲",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/82d9ddeff8ca35dc24be8b22f54a9702.jpg"
+                },
+                {
+                    "name": "周迅",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/323057d90426543e49f5674d8cd42dc7.jpg"
+                },
+                {
+                    "name": "郑秀文",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/7cc73bc9bd7e5b680dc195ed29779af5.jpg"
+                }
+            ],
+            "director": "张艾嘉|李少红|陈冲",
+            "category": "剧情|爱情|亲情",
+            "synopsis": "电影《世间有她》通过女性视角，讲述了普通人在困境中找寻爱与希望的治愈故事，体现了寻常百姓对生命不寻常的坚守和执着。当突如其来的变故横亘面前，当情侣、夫妻、婆媳等关系开始出现裂纹，每一个选择和行动都折射着人性和人心的力量与温度…….",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1662681600,
+            "timeType": 3,
+            "runtime": 116,
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6060,
+            "name": "还是觉得你最好",
+            "poster": "https://pic.maizuo.com/usr/movie/abda2a3b3a3d6734e22ad7430b5e2854.jpg",
+            "actors": [
+                {
+                    "name": "陈咏燊",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/1e65d0dd936718196b78aecf5cc8280e.jpg"
+                },
+                {
+                    "name": "黄子华",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/8cfe1f737edaff3d09d33dba4d41c2e2.jpg"
+                },
+                {
+                    "name": "邓丽欣",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/2591aec0c0dc4ca1c2b437ed21dbd077.jpg"
+                },
+                {
+                    "name": "张继聪",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/ba784b5aff253cbb58ad661fdc918090.jpg"
+                },
+                {
+                    "name": "王菀之",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/886a1b210a309c4fa7a53f7d21fa082b.jpg"
+                }
+            ],
+            "director": "陈咏燊",
+            "category": "喜剧|爱情",
+            "synopsis": "大哥的前女友竟成为二哥现女友。自尊心驱使下，大哥答应了新结识的喵喵的追求。三弟和女友的姐弟恋同样面临危机。同一屋檐，3对情侣，4段恋情，每晚的聚餐渐渐演变成饭桌修罗场。面对爱情与亲情，他们将做何选择？9月9日中秋上映。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国香港",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1662681600,
+            "timeType": 3,
+            "runtime": 116,
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 5871,
+            "name": "隐入尘烟",
+            "poster": "https://pic.maizuo.com/usr/movie/1008f3e50e21d845db63d503ec4fd1e1.jpg",
+            "actors": [
+                {
+                    "name": "李睿珺",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/1b6ac7aaf7d9961bb80385cb6267b755.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "海清",
+                    "role": "曹贵英",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/64598e33347c8ab024a4e22bed0f6b51.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "武仁林",
+                    "role": "马有铁",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/db51ba3dcc9b7913bb95098d7463fb58.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "杨光锐",
+                    "role": "张永福儿子",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/37efcc17e6ef81e6443e34bc0d0c4851.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "王彩兰",
+                    "role": "三娘",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/5d8d4db47eb3385301e0720060842085.jpg@1246w_1246h_1l_0e"
+                }
+            ],
+            "director": "李睿珺",
+            "category": "剧情|爱情|现实|农村",
+            "synopsis": "两个被各自家庭抛弃掉的孤独个体，和庄稼一样沦为大地的孩子。在四季时光的流转中，他们那些散落在别人不解目光中的爱，都在比心洁净的土地里结出果实来……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1657238400,
+            "timeType": 3,
+            "runtime": 133,
+            "grade": "7.3",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6065,
+            "name": "妈妈！",
+            "poster": "https://pic.maizuo.com/usr/movie/99540bd85261e23e6275e5e2cad67ee0.jpg",
+            "actors": [
+                {
+                    "name": "杨荔钠",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/0c5874a81c7969c8eb7ddee7b6ff46b3.jpg"
+                },
+                {
+                    "name": "吴彦姝",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/1d53a604df0f3f1c447313c138617847.jpg"
+                },
+                {
+                    "name": "奚美娟",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/6ca0e9222731c7cd9745b6f987c06688.jpg"
+                },
+                {
+                    "name": "文淇",
+                    "role": "周夏",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/2ac474b3a9255c6ceeb1cb336a1d9d74.jpg"
+                },
+                {
+                    "name": "朱时茂",
+                    "role": "医生",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/cbcd6711d9feb460230f4f1f3dff2f50.jpg"
+                }
+            ],
+            "director": "杨荔钠",
+            "category": "剧情|家庭",
+            "synopsis": "讲述一位85岁母亲照顾65岁阿尔茨海默病女儿的亲情故事，用细腻的女性视角展现爱与亲情在生命尽头绽放出的无限力量。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1662768000,
+            "timeType": 3,
+            "runtime": 109,
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6015,
+            "name": "明日战记",
+            "poster": "https://pic.maizuo.com/usr/movie/2dff84a9ce76d52bb70e26d6a746786b.jpg",
+            "actors": [
+                {
+                    "name": "吴炫辉",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/639be3f049696ef40f5b8cfe0d235ed7.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "古天乐",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/3bc65abc84745301e70eef43e8a7ee7f.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "刘青云",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/451e8aa4a24c9de35eb8d8f344ee1435.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "刘嘉玲",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/7c086bdc1c9c120e0b1a97a23c390ab2.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "谢君豪",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/de98486475ca3afde69a45a85020fe5f.jpg@1246w_1246h_1l_0e"
+                }
+            ],
+            "director": "吴炫辉",
+            "category": "动作|科幻|冒险",
+            "synopsis": "华语硬核科幻震撼来袭，中国首部机甲动作爽片燃爆今夏！未来世界，地球因环境污染而千疮百孔，人类家园破败萧条。一颗陨石突然撞击地球，并带来杀伤力极强的外星生物，560万人将因此失去生命。人类命运岌岌可危，总指挥李升（张家辉饰）派出以军人泰来（古天乐饰）为首的精英部队前往执行改造计划，部队却突遭暴力攻击，只有泰来和通讯兵光仔（万国鹏饰）幸存。军官谭冰（刘嘉玲饰）坚持执行PlanB，指挥官郑重生（刘青云饰）反对并找来旧友臭鼬（姜皓文饰）前往支援。拯救家园刻不容缓，但在通讯员小绿（吴倩饰）悄悄提醒下，泰来发现了一个足以毁天灭地的邪恶阴谋……",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "中国大陆,中国香港",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1660262400,
+            "timeType": 3,
+            "runtime": 99,
+            "grade": "7.6",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6074,
+            "name": "狼群",
+            "poster": "https://pic.maizuo.com/usr/movie/a2ab59d999b72dccba58feec79725b59.jpg",
+            "actors": [
+                {
+                    "name": "蒋丛",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/9deba92766bb9b718a2d7de2d6072a8d.jpg"
+                },
+                {
+                    "name": "张晋",
+                    "role": "老关",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/3d8a93f2a0b84bba0d1941da7d00a983.jpg"
+                },
+                {
+                    "name": "李治廷",
+                    "role": "柯童",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/2d35985bb75a5da84374e6709d29d0b1.jpg"
+                },
+                {
+                    "name": "蒋璐霞",
+                    "role": "妖怪",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/40c73e51fe0df1fe2609a37a556c445a.jpg"
+                },
+                {
+                    "name": "刘智满",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/4127a8aa91c4f98d4fac1b208320b36c.jpg"
+                }
+            ],
+            "director": "蒋丛",
+            "category": "动作|战争|剧情",
+            "synopsis": "境外恐怖势力掀起能源危机，7名反恐精英秘密守护“地下长城”！老刁（张晋 饰）率领的“狼群小队”长期从事境外安保工作，某次执行任务的过程中，意外发现境外恐怖势力将黑手伸向中国能源命脉！老刁临危受命，率领柯童（李治廷 饰）、妖怪（蒋璐霞 饰）等队员雷霆出击。危机迫在眉睫，“狼群小队”能否化险为夷？",
+            "filmType": {
+                "name": "4D",
+                "value": 13
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1662681600,
+            "timeType": 3,
+            "runtime": 105,
+            "item": {
+                "name": "4D",
+                "type": 13
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6026,
+            "name": "独行月球",
+            "poster": "https://pic.maizuo.com/usr/movie/5b5400f760e89d1ae725f6b67b95ba3a.jpg",
+            "actors": [
+                {
+                    "name": "张吃鱼",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/16c74301483011bcf22bd609d298edcb.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "沈腾",
+                    "role": "独孤月",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/bc8bb78d1e65144fcdf41930c26126e4.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "马丽",
+                    "role": "马蓝星",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/ded7c9e2476918b81b4d0aa79ea304a1.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "常远",
+                    "role": "朱皮特",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/b44a7a25ce138b32d15fbbbb2a35afc6.jpg@1246w_1246h_1l_0e"
+                },
+                {
+                    "name": "李诚儒",
+                    "role": "孙光阳",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/cfe1dad832a224877481de2e684cd4dd.jpg@1246w_1246h_1l_0e"
+                }
+            ],
+            "director": "张吃鱼",
+            "category": "喜剧|科幻",
+            "synopsis": "人类为抵御小行星的撞击，拯救地球，在月球部署了月盾计划。陨石提前来袭，全员紧急撤离时，维修工独孤月（沈腾 饰）因为意外，错过了领队马蓝星（马丽 饰）的撤离通知，一个人落在了月球。不料月盾计划失败，独孤月成为了“宇宙最后的人类”，开始了他在月球上破罐子破摔的生活……",
+            "filmType": {
+                "name": "4D",
+                "value": 13
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1659052800,
+            "timeType": 3,
+            "runtime": 122,
+            "grade": "7.8",
+            "item": {
+                "name": "4D",
+                "type": 13
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6050,
+            "name": "新神榜：杨戬",
+            "poster": "https://pic.maizuo.com/usr/movie/1ce4633160a172867c415b85e4a1cab3.jpg",
+            "actors": [
+                {
+                    "name": "赵霁",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/b8231959d61dd6f06190bfdced3bfc94.jpg"
+                },
+                {
+                    "name": "王凯",
+                    "role": "杨戬",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/43af81c92a6d117fa7afbeef192f8108.jpg"
+                },
+                {
+                    "name": "李兰陵",
+                    "role": "配音演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/f0c143068ff42f68a784cbc947b5bc0c.jpg"
+                },
+                {
+                    "name": "季冠霖",
+                    "role": "配音演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/425648dbb731e84ac67005d5013849fe.jpg"
+                },
+                {
+                    "name": "李立宏",
+                    "role": "配音演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/98a873274e52553b83ace606b111764d.jpg"
+                }
+            ],
+            "director": "赵霁",
+            "category": "动画|冒险|动作",
+            "synopsis": "商周之战一千五百年后，天界衰落，蒙冤落魄的杨戬以赏银捕手为业谋生。一日，杨戬接受了一位神秘访客的赏银去追捕一位少年，意外发现少年竟是自己的亲外甥沉香。沉香立志要寻回宝莲灯，劈山救母，却将酿成大祸。杨戬踏上追寻沉香并揭开尘封往事的旅程……",
+            "filmType": {
+                "name": "3D",
+                "value": 2
+            },
+            "nation": "中国大陆",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1660867200,
+            "timeType": 3,
+            "runtime": 127,
+            "grade": "7.9",
+            "item": {
+                "name": "3D",
+                "type": 2
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6048,
+            "name": "小黄人大眼萌：神偷奶爸前传",
+            "poster": "https://pic.maizuo.com/usr/movie/cc6af4c0b8ffbc64da4b7996517a1208.jpg",
+            "actors": [
+                {
+                    "name": "凯尔·巴尔达",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/6b2dbd4570ace5edb1ae453dc9a47bcb.jpg"
+                },
+                {
+                    "name": "布拉德·埃布尔森",
+                    "role": "联合导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/cf77b1c20f3daaa2a768bdfacc3c0e23.jpg"
+                },
+                {
+                    "name": "史蒂夫·卡瑞尔",
+                    "role": "Gru",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/e54a0faa695ee4e2fa3d2de764ce9ed7.jpg"
+                },
+                {
+                    "name": "皮埃尔·柯芬",
+                    "role": "The Minions",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/409cab7bbca3fe6ecee0ab979b16e58e.jpg"
+                },
+                {
+                    "name": "艾伦·阿金",
+                    "role": "Wild Knuckles",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/4b0475c6df981ec03274f9090fc12f65.jpg"
+                }
+            ],
+            "director": "凯尔·巴尔达|布拉德·埃布尔森",
+            "category": "喜剧|动画|冒险",
+            "synopsis": "讲述一个梦想成为全世界最强超级反派的12岁小男孩的故事。  上世纪七十年代，蓬蓬头和喇叭裤风靡之际，格鲁（史蒂夫·卡瑞尔 配音）在城郊长大。他是超强反派组合“邪恶六天王”的忠实粉丝，想要跟他们一样坏，甚至加入他们。同时，他拥有一帮胡作非为的“得力助手”。凯文、斯图尔特、鲍勃，以及戴着牙套又极其热衷于讨好的新小黄人奥豆，各尽所能，大显身手，与格鲁一起建造首个基地，试验首批武器，并执行首次任务。  当“邪恶六天王”罢黜了他们的首领，传奇战士Wild Knuckles（艾伦·阿金 配音）后，格鲁前来应聘，希望加入组织。他并未顺利如愿，尤其当他发现自己似乎比另外几位还聪明，更成了这些顶级反派们的死敌时，事情就更难办了。逃命途中，格鲁请教了一位意想不到的人，即Wild Knuckles本尊，也明白了即使是大坏蛋，也有需要朋友帮助的时候。",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "美国",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1660867200,
+            "timeType": 3,
+            "runtime": 90,
+            "grade": "7.6",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        },
+        {
+            "filmId": 6055,
+            "name": "我的非凡父母",
+            "poster": "https://pic.maizuo.com/usr/movie/e8ea53ed79e930d5f1ca25ea8a493004.jpg",
+            "actors": [
+                {
+                    "name": "朱凤娴",
+                    "role": "导演",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/86878b82ca4fc2ef25c82ed82158d3e0.jpg"
+                },
+                {
+                    "name": "惠英红",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/9b4e98a6dec2523218b7c9308fe83e22.jpg"
+                },
+                {
+                    "name": "吴岱融",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/b3b6597088a6eefe078d550b2486f171.jpg"
+                },
+                {
+                    "name": "吴千语",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/625d3a57883154b015da48958c1a76da.jpg"
+                },
+                {
+                    "name": "杨天宇",
+                    "role": "演员",
+                    "avatarAddress": "https://pic.maizuo.com/usr/movie/8f3ba4ed3a3ad6e015bcd98b0d1b0324.jpg"
+                }
+            ],
+            "director": "朱凤娴",
+            "category": "剧情|家庭",
+            "synopsis": "影片讲述拥有一双明眸的朱芷欣（吴千语饰），却有一对失明父母：甘笑红（惠英红饰）、朱国强（吴岱融饰）。乖巧懂事的她从小便成为父母的“眼睛”，为父母描绘世间的形状与颜色。随着女孩青春期的到来，热爱绘画并天赋异禀的她渴望到国外攻读艺术，观念的冲突、频繁的争吵使家庭气氛降到了冰点。在机会来临之际，芷欣将会在家庭和梦想之间作何选择？",
+            "filmType": {
+                "name": "2D",
+                "value": 1
+            },
+            "nation": "内地,香港",
+            "language": "",
+            "videoId": "",
+            "premiereAt": 1661472000,
+            "timeType": 3,
+            "runtime": 92,
+            "grade": "7.7",
+            "item": {
+                "name": "2D",
+                "type": 1
+            },
+            "isPresale": true,
+            "isSale": false
+        }
+    ],
+    "total": 32
+}
