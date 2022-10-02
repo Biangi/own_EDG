@@ -8,7 +8,7 @@ export default class Center extends Component {
         <div onClick={() => {
           console.log(this.props,'center-Props');   
           this.props.history.push()       
-        }}>订单管理</div>
+        }}>订单管理------</div>
       </div>
     )
   }
