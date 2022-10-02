@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+# 告诉 Git 忽略所有以 .o 或 .a 结尾的文件
+*.[oa]  
+# 告诉 Git 忽略所有名字以波浪符（~）结尾的文件
+*~
 # testing
 /coverage
 
