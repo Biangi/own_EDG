@@ -10,7 +10,7 @@ export default class App extends Component {
             localStorage.clear()
         }}>清除LocationStorage</button>
         <MRouter>
-            <Tabbar></Tabbar>
+          <Tabbar></Tabbar>
         </MRouter>
       </div>
     )
