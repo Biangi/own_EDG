@@ -44,7 +44,7 @@ export default function NowPlaying(props) {
 function FilmItem(props) {
     return(
         <li onClick={() => {
-            console.log(props,' *** 1.1.0');
+            console.log(props,' *** 1.1.0--------');
             props.history.push(`/detail/${props.filmId}`)    
         }}>{props.name}</li>
     )
