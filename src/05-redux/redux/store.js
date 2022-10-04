@@ -1,23 +1,32 @@
-import { legacy_createStore as createStore } from 'redux'
+import { combineReducers, legacy_createStore as createStore } from 'redux'
+import CityReducer from "./reducers/CityReducer";
+import TabbarReducer from "./reducers/TabbarReducer";
+// const reducer = (prevState={
+//     show:true,
+//     cityName:'北京'
+// },action)=>{
+//     console.log(prevState,action,'store');
+//     let newState = {...prevState}
+//     switch (action.type) {
+//         case 'hide-tabbar':
+//             newState.show = false
+//             return newState;
+//         case 'show-tabbar':
+//             newState.show = true
+//             return newState;
 
-const reducer = (prevState={
-    show:true
-},action)=>{
-    console.log(prevState,action,'store');
-    let newState = {...prevState}
-    switch (action.type) {
-        case 'hide-tabbar':
-            newState.show = false
-            return newState;
-        case 'show-tabbar':
-            newState.show = true
-            return newState;
-        default:
-            return prevState
-    }
-    // return prevState
-}
-
+//         case 'change-city':
+//             newState.show = true
+//             return newState;
+//         default:
+//             return prevState
+//     }
+//     // return prevState
+// }
+const reducer = combineReducers({
+    CityReducer,
+    TabbarReducer
+})
 const store = createStore(reducer)
 
 // function myCreateStore(reducer) {   // 手写Redux

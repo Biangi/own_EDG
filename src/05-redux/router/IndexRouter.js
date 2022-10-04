@@ -8,6 +8,7 @@ import Detail from '../views/Detail'
 import NowPlaying from '../views/fimls/NowPlaying'
 import ComingSoon from '../views/fimls/ComingSoon'
 import Login from '../views/Login'
+import City from '../views/City'
 function isAuth() {
   return localStorage.getItem('token')
 }
@@ -31,6 +32,7 @@ export default class App extends Component {
             <Route path='/fimls/comingSoon' component={ComingSoon}/> 
 
             <Route path="/login" component={Login}></Route>
+            <Route path="/city" component={City}></Route>
             {/* 路由重定向 */}
             <Redirect from="/" to="/films" exact></Redirect>
             <Route component={NotFound}></Route>
