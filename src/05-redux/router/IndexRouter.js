@@ -9,6 +9,7 @@ import NowPlaying from '../views/fimls/NowPlaying'
 import ComingSoon from '../views/fimls/ComingSoon'
 import Login from '../views/Login'
 import City from '../views/City'
+import Search from '../views/Search'
 function isAuth() {
   return localStorage.getItem('token')
 }
@@ -19,7 +20,8 @@ export default class App extends Component {
         <HashRouter>
           <Switch>
             <Route path="/films" component={Films}></Route>
-            <Route path="/cinemas" component={Cinemas}></Route>
+            <Route path="/cinemas" component={Cinemas} exact></Route>
+            <Route path="/cinemas/search" component={Search}></Route>
             {/* <Route path="/center" component={Center}></Route> */}
             <Route path="/center" render={(props) => {
               return isAuth()?<Center {...props}/>:<Redirect  to="/login"/> 

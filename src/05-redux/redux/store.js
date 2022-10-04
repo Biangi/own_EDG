@@ -3,6 +3,7 @@ import CityReducer from "./reducers/CityReducer";
 import TabbarReducer from "./reducers/TabbarReducer";
 import CinemasListReducer from "./reducers/CinemasListReducer";
 import reduxThunk from 'redux-thunk'
+import reduxPromise from 'redux-promise';
 // const reducer = (prevState={
 //     show:true,
 //     cityName:'北京'
@@ -30,7 +31,7 @@ const reducer = combineReducers({
     TabbarReducer,
     CinemasListReducer
 })
-const store = createStore(reducer,applyMiddleware(reduxThunk))
+const store = createStore(reducer,applyMiddleware(reduxThunk,reduxPromise))
 
 // function myCreateStore(reducer) {   // 手写Redux
 //     var list = []

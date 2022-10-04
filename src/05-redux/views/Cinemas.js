@@ -29,7 +29,7 @@ export default function Cinemas(props) {
         }}>{cityName}</p>
 
         <p style={{float:'right'}} onClick={()=> {
-          props.history.push('/serach')
+          props.history.push('/cinemas/search')
         }}>搜索</p>
       </div>
       
