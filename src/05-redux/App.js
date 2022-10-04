@@ -22,10 +22,10 @@ export default class App extends Component {
     const { isShow } = this.state
     return (
       <div>
-        <p onClick={this.routeGoBack}>返回</p>
+        {/* <p onClick={this.routeGoBack}>返回</p>
         <button onClick={() => {
             localStorage.clear()
-        }}>清除LocationStorage</button>
+        }}>清除LocationStorage</button> */}
         <MRouter>
           {isShow.show && <Tabbar></Tabbar>}
         </MRouter>

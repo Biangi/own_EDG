@@ -1,7 +1,7 @@
 const TabbarReducer = (prevState={
     show:true
 },action)=>{
-    console.log(prevState,action,'store');
+    // console.log(prevState,action,'store');
     let newState = {...prevState}
     switch (action.type) {
         case 'hide-tabbar':

@@ -1,6 +1,8 @@
-import { combineReducers, legacy_createStore as createStore } from 'redux'
+import { applyMiddleware, combineReducers, legacy_createStore as createStore } from 'redux'
 import CityReducer from "./reducers/CityReducer";
 import TabbarReducer from "./reducers/TabbarReducer";
+import CinemasListReducer from "./reducers/CinemasListReducer";
+import reduxThunk from 'redux-thunk'
 // const reducer = (prevState={
 //     show:true,
 //     cityName:'北京'
@@ -25,9 +27,10 @@ import TabbarReducer from "./reducers/TabbarReducer";
 // }
 const reducer = combineReducers({
     CityReducer,
-    TabbarReducer
+    TabbarReducer,
+    CinemasListReducer
 })
-const store = createStore(reducer)
+const store = createStore(reducer,applyMiddleware(reduxThunk))
 
 // function myCreateStore(reducer) {   // 手写Redux
 //     var list = []
