@@ -1,4 +1,4 @@
-import { applyMiddleware, combineReducers, legacy_createStore as createStore } from 'redux'
+import { applyMiddleware, combineReducers, legacy_createStore as createStore, compose  } from 'redux'
 import CityReducer from "./reducers/CityReducer";
 import TabbarReducer from "./reducers/TabbarReducer";
 import CinemasListReducer from "./reducers/CinemasListReducer";
@@ -31,7 +31,13 @@ const reducer = combineReducers({
     TabbarReducer,
     CinemasListReducer
 })
-const store = createStore(reducer,applyMiddleware(reduxThunk,reduxPromise))
+
+// reduxTools配置，生产环境请关闭
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+const store = createStore(reducer,composeEnhancers(applyMiddleware(reduxThunk,reduxPromise)))
+
+// 生产环境使用store
+// const store = createStore(reducer, applyMiddleware(reduxThunk,reduxPromise))
 
 // function myCreateStore(reducer) {   // 手写Redux
 //     var list = []
