@@ -6,7 +6,7 @@ export default function NowPlaying(props) {
     const [mlist, setmlist] = useState([])
     useEffect(() => {
         axios.get('/test.json').then(res => {
-            console.log(res.data.films,'电影数据');
+            // console.log(res.data.films,'电影数据');
             setmlist(res.data.films)
         })
     }, [])
@@ -28,7 +28,7 @@ export default function NowPlaying(props) {
     }
   return (
     <div>
-        NowPlaying
+        08-NowPlaying
         <ul style={{display:'flex',flexDirection:'column'}}>
            {mlist.map(item =>  
             // <NavLink to={'/detail/'+item.filmId} key={item.filmId}>{item.name}</NavLink>
